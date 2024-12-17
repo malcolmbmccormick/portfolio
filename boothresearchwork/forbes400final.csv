@@ -1,0 +1,401 @@
+RANK,NAME,NET WORTH,AGE,STATE,SOURCE,PHILANTHROPY SCORE,INDUSTRY
+1,Elon Musk,$251 B,52,Texas,"Tesla, SpaceX",1,AUTOMOTIVE
+2,Jeff Bezos,$161 B,59,Washington,Amazon,2,TECHNOLOGY
+3,Larry Ellison,$158 B,79,California,Oracle,1,TECHNOLOGY
+4,Warren Buffett,$121 B,93,Nebraska,Berkshire Hathaway,5,FINANCE & INVESTMENTS
+5,Larry Page,$114 B,50,California,Google,1,TECHNOLOGY
+6,Bill Gates,$111 B,67,Washington,Microsoft,5,TECHNOLOGY
+7,Sergey Brin,$110 B,50,California,Google,2,TECHNOLOGY
+8,Mark Zuckerberg,$106 B,39,California,Facebook,2,TECHNOLOGY
+9,Steve Ballmer,$101 B,67,Washington,Microsoft,2,TECHNOLOGY
+10,Michael Bloomberg,$96.3 B,81,New York,Bloomberg LP,4,FINANCE & INVESTMENTS
+11,Michael Dell,$71.5 B,58,Texas,Dell Technologies,2,TECHNOLOGY
+12,Jim Walton & family,$68.2 B,75,Arkansas,Walmart,1,FASHION & RETAIL
+13,Rob Walton & family,$67.4 B,78,Arkansas,Walmart,1,FASHION & RETAIL
+14,Alice Walton,$66.5 B,73,Texas,Walmart,2,FASHION & RETAIL
+15,Julia Koch & family,$59.8 B,61,New York,Koch Industries,2,DIVERSIFIED
+16,Charles Koch & family,$54.5 B,87,Kansas,Koch Industries,2,DIVERSIFIED
+17,Jensen Huang,$40.7 B,60,California,Semiconductors,1,TECHNOLOGY
+18,Phil Knight & family,$39.5 B,85,Oregon,Nike,3,FASHION & RETAIL
+19,Jacqueline Mars,$38.9 B,83,Virginia,"Candy, pet food",None,FOOD & BEVERAGE
+19,John Mars,$38.9 B,87,Wyoming,"Candy, pet food",None,FOOD & BEVERAGE
+21,MacKenzie Scott,$37.1 B,53,Washington,Amazon,5,TECHNOLOGY
+22,Ken Griffin,$35.4 B,54,Florida,Hedge funds,3,FINANCE & INVESTMENTS
+23,Stephen Schwarzman,$34.5 B,76,New York,Investments,2,FINANCE & INVESTMENTS
+24,Miriam Adelson & family,$32.8 B,77,Nevada,Casinos,2,GAMBLING & CASINOS
+25,Len Blavatnik,$30.7 B,66,,"Music, chemicals",2,DIVERSIFIED
+25,Jim Simons,$30.7 B,85,New York,Hedge funds,4,FINANCE & INVESTMENTS
+27,Thomas Peterffy,$29.7 B,79,Florida,Discount brokerage,1,FINANCE & INVESTMENTS
+28,Jeff Yass,$28.9 B,65,Pennsylvania,"Trading, investments",1,FINANCE & INVESTMENTS
+29,Abigail Johnson,$25.5 B,61,Massachusetts,Fidelity,1,FINANCE & INVESTMENTS
+30,Harold Hamm & family,$25.2 B,77,Oklahoma,Oil & gas,1,ENERGY
+31,Lukas Walton,$24.2 B,37,Illinois,Walmart,1,FASHION & RETAIL
+32,"Thomas Frist, Jr. & family",$22.6 B,85,Tennessee,Hospitals,1,HEALTHCARE
+33,"John Menard, Jr.",$22.5 B,83,Wisconsin,Home improvement stores,1,FASHION & RETAIL
+34,Daniel Gilbert,$21.3 B,61,Michigan,Quicken Loans,2,FINANCE & INVESTMENTS
+35,David Tepper,$20.6 B,66,Florida,Hedge funds,2,FINANCE & INVESTMENTS
+36,Eric Schmidt,$20 B,68,California,Google,3,TECHNOLOGY
+37,Steve Cohen,$19.8 B,67,Connecticut,Hedge funds,3,FINANCE & INVESTMENTS
+38,Diane Hendricks,$19.3 B,76,Wisconsin,Building supplies,1,CONSTRUCTION & ENGINEERING
+39,Donald Bren,$18 B,91,California,Real estate,4,REAL ESTATE
+40,Rupert Murdoch & family,$17.4 B,92,New York,"Newspapers, TV network",1,MEDIA & ENTERTAINMENT
+41,Rick Cohen & family,$16.2 B,71,New Hampshire,Warehouse automation,None,TECHNOLOGY
+42,Ray Dalio,$15.4 B,74,Connecticut,Hedge funds,3,FINANCE & INVESTMENTS
+42,Leonard Lauder,$15.4 B,90,New York,Estee Lauder,3,FASHION & RETAIL
+44,Jan Koum,$15.1 B,47,California,WhatsApp,2,TECHNOLOGY
+45,Philip Anschutz,$14.8 B,83,Colorado,"Energy, sports, entertainment",3,FINANCE & INVESTMENTS
+45,Autry Stephens,$14.8 B,85,Texas,Oil,None,ENERGY
+47,Stanley Kroenke,$14.6 B,76,Texas,"Sports, real estate",1,SPORTS
+48,Jerry Jones,$14.5 B,80,Texas,Dallas Cowboys,1,SPORTS
+49,George Kaiser,$14.1 B,81,Oklahoma,"Oil & gas, banking",4,ENERGY
+50,Andrew Beal,$13.8 B,70,Texas,"Banks, real estate",1,FINANCE & INVESTMENTS
+51,David Duffield,$13.7 B,83,Nevada,Business software,3,TECHNOLOGY
+51,David Green & family,$13.7 B,81,Oklahoma,Retail,2,FASHION & RETAIL
+51,Jeffery Hildebrand,$13.7 B,64,Texas,Oil,2,ENERGY
+54,Laurene Powell Jobs & family,$13.4 B,59,California,"Apple, Disney",2,TECHNOLOGY
+55,Shahid Khan,$12.2 B,73,Florida,Auto parts,1,AUTOMOTIVE
+55,Dustin Moskovitz,$12.2 B,39,California,Facebook,4,TECHNOLOGY
+57,Leon Black,$12 B,72,New York,Private equity,2,FINANCE & INVESTMENTS
+58,Israel Englander,$11.8 B,75,New York,Hedge funds,1,FINANCE & INVESTMENTS
+58,Christy Walton,$11.8 B,74,Wyoming,Walmart,1,FASHION & RETAIL
+60,Donald Newhouse,$11.6 B,94,New York,Media,2,MEDIA & ENTERTAINMENT
+61,Michael Rubin,$11.5 B,51,Pennsylvania,Online retail,1,FASHION & RETAIL
+62,Robert Kraft,$11.1 B,82,Massachusetts,"Manufacturing, New England Patriots",3,SPORTS
+63,John Doerr,$10.7 B,72,California,Venture capital,2,TECHNOLOGY
+64,"Edward Johnson, IV.",$10.6 B,58,Massachusetts,Fidelity,2,FINANCE & INVESTMENTS
+65,Eric Smidt,$10.5 B,63,California,Hardware stores,1,FASHION & RETAIL
+66,Melinda French Gates,$10.3 B,59,Washington,Microsoft,5,TECHNOLOGY
+67,Judy Love & family,$10.2 B,86,Oklahoma,Gas stations,1,FASHION & RETAIL
+67,David Sun,$10.2 B,71,California,Computer hardware,1,TECHNOLOGY
+67,John Tu,$10.2 B,82,California,Computer hardware,1,TECHNOLOGY
+70,Stephen Ross,$10.1 B,83,New York,Real estate,2,REAL ESTATE
+70,Patrick Ryan,$10.1 B,86,Illinois,Insurance,2,FINANCE & INVESTMENTS
+72,Brian Chesky,$10 B,42,California,Airbnb,1,TECHNOLOGY
+72,John Malone,$10 B,82,Colorado,Cable television,3,MEDIA & ENTERTAINMENT
+72,Henry Samueli,$10 B,69,California,Semiconductors,2,TECHNOLOGY
+75,Carl Cook,$9.8 B,61,Indiana,Medical devices,None,HEALTHCARE
+76,Bubba Cathy,$9.7 B,69,Georgia,Chick-fil-A,1,FOOD & BEVERAGE
+76,Dan Cathy,$9.7 B,70,Georgia,Chick-fil-A,1,FOOD & BEVERAGE
+76,Trudy Cathy White,$9.7 B,67,Georgia,Chick-fil-A,1,FOOD & BEVERAGE
+76,Marijke Mars,$9.7 B,59,California,"Candy, pet food",None,FOOD & BEVERAGE
+76,Pamela Mars,$9.7 B,63,Virginia,"Candy, pet food",None,FOOD & BEVERAGE
+76,Valerie Mars,$9.7 B,64,New York,"Candy, pet food",None,FOOD & BEVERAGE
+76,Victoria Mars,$9.7 B,66,Pennsylvania,"Candy, pet food",None,FOOD & BEVERAGE
+76,George Roberts,$9.7 B,80,California,Private equity,3,FINANCE & INVESTMENTS
+76,Harry Stine,$9.7 B,81,Iowa,Agriculture,1,FOOD & BEVERAGE
+85,Michael Kim,$9.6 B,60,,Private equity,1,FINANCE & INVESTMENTS
+86,Nathan Blecharczyk,$9.5 B,40,California,Airbnb,1,TECHNOLOGY
+87,Ann Walton Kroenke,$9.4 B,74,Texas,Walmart,1,FASHION & RETAIL
+88,Nancy Walton Laurie,$9.3 B,72,Nevada,Walmart,1,FASHION & RETAIL
+89,Jay Chaudhry,$9.2 B,64,Nevada,Security software,None,TECHNOLOGY
+89,Bernard Marcus,$9.2 B,94,Georgia,Home Depot,4,FASHION & RETAIL
+89,Robert F. Smith,$9.2 B,60,Texas,Private equity,2,FINANCE & INVESTMENTS
+92,Ramzi Musallam,$9 B,55,New York,Private equity,None,FINANCE & INVESTMENTS
+92,J. Christopher Reyes,$9 B,69,Florida,Food distribution,1,FOOD & BEVERAGE
+92,Jude Reyes,$9 B,68,Florida,Food distribution,1,FOOD & BEVERAGE
+92,Charles Schwab,$9 B,86,California,Discount brokerage,3,FINANCE & INVESTMENTS
+96,Joe Gebbia,$8.9 B,42,Texas,Airbnb,2,TECHNOLOGY
+96,Henry Kravis,$8.9 B,79,New York,Private equity,3,FINANCE & INVESTMENTS
+98,Pauline MacMillan Keinath,$8.8 B,89,Missouri,Cargill,1,FOOD & BEVERAGE
+99,Orlando Bravo,$8.7 B,53,Florida,Private equity,1,FINANCE & INVESTMENTS
+99,Jimmy Haslam,$8.7 B,69,Tennessee,"Gas stations, retail",2,FASHION & RETAIL
+99,Elizabeth Johnson,$8.7 B,60,Massachusetts,Fidelity,2,FINANCE & INVESTMENTS
+102,James Goodnight,$8.5 B,80,North Carolina,Software,2,TECHNOLOGY
+102,"Henry Nicholas, III.",$8.5 B,63,California,Semiconductors,1,TECHNOLOGY
+104,Marc Benioff,$8.4 B,59,California,Business software,4,TECHNOLOGY
+105,Robert Pera,$8.3 B,45,California,Wireless networking,1,TECHNOLOGY
+105,David Shaw,$8.3 B,72,New York,Hedge funds,2,FINANCE & INVESTMENTS
+107,Elisabeth DeLuca & family,$8.2 B,76,Florida,Subway,2,FOOD & BEVERAGE
+108,Jack Dangermond,$8.1 B,78,California,Mapping software,2,TECHNOLOGY
+108,Tom Gores,$8.1 B,59,California,Private equity,1,FINANCE & INVESTMENTS
+108,"Paul Tudor Jones, II.",$8.1 B,69,Florida,Hedge funds,2,FINANCE & INVESTMENTS
+108,Steven Rales,$8.1 B,72,California,"Manufacturing, investments",2,MANUFACTURING
+108,Antony Ressler,$8.1 B,62,California,Finance,2,FINANCE & INVESTMENTS
+108,Leonard Stern,$8.1 B,85,New York,Real estate,1,REAL ESTATE
+114,Rocco Commisso,$8 B,73,New Jersey,Telecom,1,TELECOM
+114,Tilman Fertitta,$8 B,66,Texas,"Entertainment, Houston Rockets",2,FOOD & BEVERAGE
+114,David Geffen,$8 B,80,California,"Movies, record labels",3,MEDIA & ENTERTAINMENT
+114,John Morris,$8 B,75,Missouri,Sporting goods retail,3,FASHION & RETAIL
+118,Arthur Blank,$7.9 B,81,Georgia,Home Depot,3,SPORTS
+119,Bruce Kovner,$7.7 B,78,New York,Hedge funds,2,FINANCE & INVESTMENTS
+119,Igor Olenicoff,$7.7 B,81,Florida,Real estate,1,REAL ESTATE
+121,Charles Butt,$7.6 B,85,Texas,Supermarkets,4,FASHION & RETAIL
+121,David Steward,$7.6 B,72,Missouri,IT provider,2,TECHNOLOGY
+123,Jeff Greene,$7.5 B,68,Florida,"Real estate, investments",1,REAL ESTATE
+123,Tamara Gustavson,$7.5 B,61,Kentucky,Self storage,1,SERVICE
+123,Richard Kinder,$7.5 B,78,Texas,Pipelines,3,ENERGY
+123,Ralph Lauren,$7.5 B,83,New York,Apparel,1,FASHION & RETAIL
+123,Robert Rowling,$7.5 B,70,Texas,"Hotels, investments",2,SERVICE
+128,Dannine Avara,$7.4 B,59,Texas,Pipelines,1,ENERGY
+128,Scott Duncan,$7.4 B,40,Texas,Pipelines,1,ENERGY
+128,Judy Faulkner,$7.4 B,80,Wisconsin,Healthcare software,2,TECHNOLOGY
+128,Milane Frantz,$7.4 B,54,Texas,Pipelines,1,ENERGY
+128,Don Hankey,$7.4 B,80,California,Auto loans,1,FINANCE & INVESTMENTS
+128,Ken Langone,$7.4 B,88,New York,Investments,3,FINANCE & INVESTMENTS
+128,"Edward Roski, Jr.",$7.4 B,84,California,Real estate,1,REAL ESTATE
+128,Ronda Stryker,$7.4 B,69,Michigan,Medical equipment,3,HEALTHCARE
+128,Randa Duncan Williams,$7.4 B,62,Texas,Pipelines,1,ENERGY
+137,Arthur Dantchik,$7.3 B,65,Pennsylvania,"Trading, investments",2,FINANCE & INVESTMENTS
+137,John Overdeck,$7.3 B,53,New Jersey,Hedge funds,2,FINANCE & INVESTMENTS
+137,David Siegel,$7.3 B,62,New York,Hedge funds,2,FINANCE & INVESTMENTS
+140,Bert Beveridge,$7.2 B,61,Texas,Vodka,1,FOOD & BEVERAGE
+140,Stephen Bisciotti,$7.2 B,63,Florida,"Staffing, Baltimore Ravens",2,SPORTS
+140,Ray Lee Hunt,$7.2 B,80,Texas,"Oil, real estate",2,ENERGY
+140,"Robert Rich, Jr.",$7.2 B,82,Florida,Frozen foods,1,FOOD & BEVERAGE
+144,Ken Fisher,$7.1 B,72,Texas,Money management,1,FINANCE & INVESTMENTS
+145,Edythe Broad & family,$7 B,87,California,"Homebuilding, insurance",5,DIVERSIFIED
+145,Dennis Washington,$7 B,89,Montana,"Construction, mining",3,LOGISTICS
+147,Micky Arison,$6.9 B,74,Florida,Carnival Cruises,2,SERVICE
+147,"Ernest Garcia, II.",$6.9 B,66,Arizona,Used cars,1,AUTOMOTIVE
+147,Josh Harris,$6.9 B,58,Florida,Private equity,2,FINANCE & INVESTMENTS
+147,Carl Icahn,$6.9 B,87,Florida,Investments,2,FINANCE & INVESTMENTS
+147,Leo Koguan,$6.9 B,68,,IT provider,2,TECHNOLOGY
+147,Douglas Leone,$6.9 B,66,California,Venture capital,2,FINANCE & INVESTMENTS
+153,Jonathan Gray,$6.8 B,53,New York,Investments,2,FINANCE & INVESTMENTS
+153,Terrence Pegula,$6.8 B,72,Florida,Natural gas,2,ENERGY
+153,Reinhold Schmieding,$6.8 B,68,Florida,Medical devices,None,HEALTHCARE
+156,Mat Ishbia,$6.7 B,43,Michigan,Mortgage lender,1,FINANCE & INVESTMENTS
+156,Jim Kennedy,$6.7 B,75,Georgia,"Media, automotive",3,MEDIA & ENTERTAINMENT
+156,Blair Parry-Okeden,$6.7 B,73,,"Media, automotive",2,MEDIA & ENTERTAINMENT
+156,Lynsi Snyder,$6.7 B,41,California,In-N-Out Burger,2,FOOD & BEVERAGE
+156,George Soros,$6.7 B,93,New York,Hedge funds,5,FINANCE & INVESTMENTS
+161,Vinod Khosla,$6.5 B,68,California,Venture capital,2,TECHNOLOGY
+161,Annette Lerner & family,$6.5 B,93,Maryland,Real estate,1,REAL ESTATE
+161,Michael Milken,$6.5 B,77,California,Investments,3,FINANCE & INVESTMENTS
+164,Li Ge,$6.4 B,56,,Pharmaceutical ingredients,None,HEALTHCARE
+164,Pierre Omidyar,$6.4 B,56,Hawaii,"EBay, PayPal",5,TECHNOLOGY
+164,Charles Simonyi,$6.4 B,75,Washington,Microsoft,2,TECHNOLOGY
+167,Neil Bluhm,$6.3 B,85,Illinois,Real estate,2,REAL ESTATE
+167,Don Vultaggio & family,$6.3 B,71,New York,Beverages,1,FOOD & BEVERAGE
+169,John Brown,$6.2 B,89,Georgia,Medical equipment,2,HEALTHCARE
+169,Stanley Druckenmiller,$6.2 B,70,New York,Hedge funds,3,FINANCE & INVESTMENTS
+169,Daniel Ziff,$6.2 B,51,New York,Investments,1,FINANCE & INVESTMENTS
+169,Dirk Ziff,$6.2 B,59,Florida,Investments,1,FINANCE & INVESTMENTS
+169,Robert Ziff,$6.2 B,57,New York,Investments,1,FINANCE & INVESTMENTS
+174,Philippe Laffont,$6.1 B,56,New York,Hedge fund,1,FINANCE & INVESTMENTS
+174,Paul Singer,$6.1 B,79,New York,Hedge funds,2,FINANCE & INVESTMENTS
+176,Todd Boehly,$6 B,50,Connecticut,Finance,None,FINANCE & INVESTMENTS
+176,William Goldring & family,$6 B,80,Louisiana,alcohol,None,FOOD & BEVERAGE
+176,Karen Pritzker,$6 B,65,Connecticut,"Hotels, investments",2,FINANCE & INVESTMENTS
+176,Les Wexner & family,$6 B,86,Ohio,Retail,3,FASHION & RETAIL
+180,John A. Sobrato & family,$5.9 B,84,California,Real estate,4,REAL ESTATE
+180,Peter Thiel,$5.9 B,55,California,"Facebook, investments",2,FINANCE & INVESTMENTS
+182,Robert Faith,$5.8 B,60,South Carolina,Real estate management,1,REAL ESTATE
+182,Denise York & family,$5.8 B,72,Ohio,San Francisco 49ers,1,SPORTS
+184,David Bonderman,$5.7 B,80,Texas,Private equity,2,FINANCE & INVESTMENTS
+184,"Chase Coleman, III.",$5.7 B,48,New York,Investments,2,FINANCE & INVESTMENTS
+184,Dan Friedkin,$5.7 B,58,Texas,Toyota dealerships,3,AUTOMOTIVE
+184,Bill Haslam,$5.7 B,65,Tennessee,Gas stations,1,FASHION & RETAIL
+184,Marc Rowan,$5.7 B,61,New York,Private equity,2,FINANCE & INVESTMENTS
+184,Fred Smith,$5.7 B,79,Tennessee,FedEx,1,LOGISTICS
+184,Mark Walter,$5.7 B,63,Illinois,"Finance, asset management",2,FINANCE & INVESTMENTS
+184,Ty Warner,$5.7 B,79,Illinois,"Plush toys, real estate",2,REAL ESTATE
+192,Scott Cook,$5.6 B,71,California,Software,3,TECHNOLOGY
+192,Tom Golisano,$5.6 B,81,Florida,Payroll services,2,SERVICE
+192,Joe Mansueto,$5.6 B,67,Illinois,Investment research,2,FINANCE & INVESTMENTS
+192,Janice McNair,$5.6 B,87,Texas,"Energy, sports",2,SPORTS
+192,Thomas Pritzker,$5.6 B,73,Illinois,"Hotels, investments",2,FINANCE & INVESTMENTS
+192,Lynda Resnick,$5.6 B,80,California,Agriculture,3,FOOD & BEVERAGE
+192,Stewart Resnick,$5.6 B,86,California,Agriculture,3,FOOD & BEVERAGE
+192,Gary Rollins,$5.6 B,79,Georgia,Pest control,2,SERVICE
+192,Kelcy Warren,$5.6 B,67,Texas,Pipelines,2,ENERGY
+201,Gwendolyn Sontheim Meyer,$5.5 B,61,California,Cargill,1,FOOD & BEVERAGE
+201,Mark Stevens,$5.5 B,63,Colorado,Venture capital,2,FINANCE & INVESTMENTS
+203,"Robert Hale, Jr.",$5.4 B,57,Massachusetts,Telecom,3,TELECOM
+204,Robert Bass,$5.3 B,75,Texas,"Oil, investments",2,ENERGY
+204,Gayle Benson,$5.3 B,76,Louisiana,New Orleans Saints,2,SPORTS
+204,Rick Caruso,$5.3 B,64,California,Real estate,2,REAL ESTATE
+204,Thai Lee,$5.3 B,64,Texas,IT provider,1,TECHNOLOGY
+204,Doug Meijer & family,$5.3 B,69,Michigan,Supermarkets,2,FASHION & RETAIL
+204,Hank Meijer & family,$5.3 B,71,Michigan,Supermarkets,2,FASHION & RETAIL
+204,Mark Meijer & family,$5.3 B,65,Michigan,Supermarkets,2,FASHION & RETAIL
+211,Mark Cuban,$5.2 B,65,Texas,"Online media, Dallas Mavericks",1,MEDIA & ENTERTAINMENT
+211,Dagmar Dolby & family,$5.2 B,82,California,Dolby Laboratories,3,TECHNOLOGY
+211,Archie Aldis Emmerson & family,$5.2 B,94,California,"Timberland, lumber mills",2,MANUFACTURING
+211,Thomas Hagen,$5.2 B,87,Pennsylvania,Insurance,2,FINANCE & INVESTMENTS
+215,Ron Baron,$5.1 B,80,New York,Money management,1,FINANCE & INVESTMENTS
+215,Jim Davis & family,$5.1 B,80,Massachusetts,New Balance,2,MANUFACTURING
+215,John Henry,$5.1 B,74,Florida,Sports,1,SPORTS
+215,Charles B. Johnson,$5.1 B,90,Florida,Franklin Templeton,3,FINANCE & INVESTMENTS
+215,Joseph Liemandt,$5.1 B,55,Texas,Software,None,TECHNOLOGY
+215,Sami Mnaymneh,$5.1 B,62,Florida,Private equity,1,FINANCE & INVESTMENTS
+215,Michael Moritz,$5.1 B,69,California,Venture capital,4,TECHNOLOGY
+215,Tony Tamer,$5.1 B,65,New York,Private equity,None,FINANCE & INVESTMENTS
+215,Romesh T. Wadhwani,$5.1 B,76,California,Software,2,TECHNOLOGY
+224,"Austen Cargill, II.",$5 B,72,Montana,Cargill,1,FOOD & BEVERAGE
+224,"James Cargill, II.",$5 B,74,Wisconsin,Cargill,1,FOOD & BEVERAGE
+224,Marianne Liebmann,$5 B,70,Montana,Cargill,1,FOOD & BEVERAGE
+227,Margot Birmingham Perot,$4.9 B,89,Texas,"Computer services, real estate",2,TECHNOLOGY
+227,W. Herbert Hunt,$4.9 B,94,Texas,Oil,1,ENERGY
+227,Helen Johnson-Leipold,$4.9 B,66,Wisconsin,Cleaning products,2,MANUFACTURING
+227,Dan Kurzius,$4.9 B,51,Georgia,Email marketing,None,TECHNOLOGY
+227,George Lucas,$4.9 B,79,California,Star Wars,4,MEDIA & ENTERTAINMENT
+227,Trevor Rees-Jones,$4.9 B,72,Texas,Oil & gas,4,ENERGY
+227,Thomas Secunda,$4.9 B,69,New York,Bloomberg LP,2,FINANCE & INVESTMENTS
+227,Patrick Soon-Shiong,$4.9 B,71,California,Pharmaceuticals,2,HEALTHCARE
+227,Elizabeth Uihlein,$4.9 B,78,Illinois,Packaging materials,2,MANUFACTURING
+227,Richard Uihlein,$4.9 B,78,Illinois,Packaging materials,2,MANUFACTURING
+227,Ronald Wanek,$4.9 B,82,Florida,Furniture,2,MANUFACTURING
+238,H. Fisk Johnson,$4.8 B,65,Wisconsin,Cleaning products,2,MANUFACTURING
+238,S. Curtis Johnson,$4.8 B,68,Wisconsin,Cleaning products,2,MANUFACTURING
+238,Winifred J. Marquart,$4.8 B,64,Virginia,Cleaning products,2,MANUFACTURING
+238,Arturo Moreno,$4.8 B,77,Arizona,"Billboards, Los Angeles Angels",2,SPORTS
+238,Steven Spielberg,$4.8 B,76,California,Movies,3,MEDIA & ENTERTAINMENT
+238,Russ Weiner,$4.8 B,53,Florida,Energy drinks,1,FOOD & BEVERAGE
+244,Charles Dolan & family,$4.7 B,96,New York,Cable television,2,MEDIA & ENTERTAINMENT
+244,Jim Kavanaugh,$4.7 B,60,Missouri,IT provider,1,TECHNOLOGY
+244,Ronald Lauder,$4.7 B,79,New York,Estee Lauder,3,FASHION & RETAIL
+244,Mitchell Rales,$4.7 B,67,Maryland,"Manufacturing, investments",2,MANUFACTURING
+244,Jon Stryker,$4.7 B,65,New York,Medical equipment,4,HEALTHCARE
+249,Ben Chestnut,$4.6 B,49,Georgia,Email marketing,1,TECHNOLOGY
+249,Rakesh Gangwal,$4.6 B,70,Florida,Airline,None,SERVICE
+249,Jeff T. Green,$4.6 B,46,California,Digital advertising,1,MEDIA & ENTERTAINMENT
+249,Donald Horton & family,$4.6 B,73,Texas,Homebuilding,1,REAL ESTATE
+249,Johnelle Hunt,$4.6 B,91,Arkansas,Trucking,2,LOGISTICS
+249,Jeffrey Lurie & family,$4.6 B,72,Pennsylvania,Philadelphia Eagles,2,SPORTS
+249,Mark Shoen,$4.6 B,72,Arizona,U-Haul,None,AUTOMOTIVE
+249,Herbert Wertheim,$4.6 B,84,Florida,Investments,1,FINANCE & INVESTMENTS
+249,Ken Xie,$4.6 B,60,California,Cybersecurity,1,TECHNOLOGY
+258,James Chambers,$4.5 B,66,New York,"Media, automotive",2,MEDIA & ENTERTAINMENT
+258,Min Kao & family,$4.5 B,74,Kansas,Navigation equipment,2,TECHNOLOGY
+258,Lin Bin,$4.5 B,55,,Smartphones,None,TECHNOLOGY
+258,Katharine Rayner,$4.5 B,78,New York,"Media, automotive",2,MEDIA & ENTERTAINMENT
+258,Lynn Schusterman & family,$4.5 B,84,Oklahoma,"Oil & gas, investments",5,ENERGY
+258,Margaretta Taylor,$4.5 B,81,New York,"Media, automotive",2,MEDIA & ENTERTAINMENT
+264,Jim Davis,$4.4 B,63,Maryland,Staffing & recruiting,3,SERVICE
+264,Jeff Skoll,$4.4 B,58,California,EBay,5,TECHNOLOGY
+264,Eric Yuan & family,$4.4 B,53,California,Zoom Video Communications,None,TECHNOLOGY
+267,John Catsimatidis,$4.3 B,75,New York,"Oil, real estate",1,ENERGY
+267,Reed Hastings,$4.3 B,62,California,Netflix,3,TECHNOLOGY
+267,James Irsay,$4.3 B,64,Indiana,Indianapolis Colts,1,SPORTS
+267,Eric Lefkofsky,$4.3 B,54,Illinois,"Groupon, investments",2,TECHNOLOGY
+267,Gabe Newell,$4.3 B,60,Washington,Videogames,None,GAMBLING & CASINOS
+267,Jean (Gigi) Pritzker,$4.3 B,61,California,"Hotels, investments",2,SERVICE
+273,Joseph Grendys,$4.2 B,61,Illinois,Poultry processing,1,FOOD & BEVERAGE
+273,Martha Ingram & family,$4.2 B,88,Tennessee,"Book distribution, transportation",1,MEDIA & ENTERTAINMENT
+273,"Jeremy Jacobs, Sr. & family",$4.2 B,83,New York,Food service,2,SERVICE
+273,"Rupert Johnson, Jr.",$4.2 B,83,California,Franklin Templeton,2,FINANCE & INVESTMENTS
+273,John Sall,$4.2 B,75,North Carolina,Software,2,TECHNOLOGY
+278,Nick Caporella,$4.1 B,87,Florida,Beverages,None,FOOD & BEVERAGE
+278,Barry Diller,$4.1 B,81,New York,Online media,3,MEDIA & ENTERTAINMENT
+278,Stephen Feinberg,$4.1 B,63,New York,Private equity,None,FINANCE & INVESTMENTS
+278,Maggie Hardy,$4.1 B,57,Pennsylvania,Building materials,None,SERVICE
+278,Dan Snyder,$4.1 B,58,Maryland,Washington Commanders,1,SPORTS
+278,Tim Sweeney,$4.1 B,52,North Carolina,Video games,1,MEDIA & ENTERTAINMENT
+278,Steven Udvar-Hazy,$4.1 B,77,Texas,Aircraft leasing,3,SERVICE
+285,Marian Ilitch,$4 B,90,Michigan,Little Caesars Pizza,3,FOOD & BEVERAGE
+285,Roger Penske,$4 B,86,Michigan,Cars,1,AUTOMOTIVE
+285,Isaac Perlmutter,$4 B,80,Florida,Marvel comics,1,MEDIA & ENTERTAINMENT
+285,Jeff Rothschild,$4 B,68,California,Facebook,1,TECHNOLOGY
+285,E. Joe Shoen,$4 B,73,Arizona,U-Haul,None,AUTOMOTIVE
+285,Donald Sterling,$4 B,89,California,Real estate,1,REAL ESTATE
+291,Sid Bass,$3.9 B,81,Texas,"Oil, investments",2,ENERGY
+291,Wesley Edens,$3.9 B,61,New York,Investments,None,FINANCE & INVESTMENTS
+291,Hamilton James & family,$3.9 B,72,New York,Investments,2,FINANCE & INVESTMENTS
+291,Gail Miller,$3.9 B,79,Utah,Car dealerships,2,AUTOMOTIVE
+295,Jim Coulter,$3.8 B,63,California,Private equity,1,FINANCE & INVESTMENTS
+295,Daniel D'Aniello,$3.8 B,77,Virginia,Private equity,3,FINANCE & INVESTMENTS
+295,Behdad Eghbali,$3.8 B,47,California,Private equity,None,FINANCE & INVESTMENTS
+295,Jose E. Feliciano,$3.8 B,50,California,Private equity,1,FINANCE & INVESTMENTS
+295,Peter Kellogg,$3.8 B,81,New Jersey,Investments,3,FINANCE & INVESTMENTS
+295,Richard Schulze,$3.8 B,82,Florida,Best Buy,3,FASHION & RETAIL
+295,Thomas Siebel,$3.8 B,70,California,Business software,4,TECHNOLOGY
+295,Barry Sternlicht,$3.8 B,62,Florida,Private equity,2,FINANCE & INVESTMENTS
+295,Michael Xie,$3.8 B,54,California,Cybersecurity,1,TECHNOLOGY
+304,William Ackman,$3.7 B,57,New York,Hedge funds,3,FINANCE & INVESTMENTS
+304,Brian Armstrong,$3.7 B,40,California,Cryptocurrency,None,FINANCE & INVESTMENTS
+304,Hayes Barnard,$3.7 B,51,Texas,Fintech,2,FINANCE & INVESTMENTS
+304,Peter Gassner,$3.7 B,58,California,Software,None,TECHNOLOGY
+304,Brad Jacobs,$3.7 B,67,Connecticut,Logistics,None,LOGISTICS
+304,Mary Alice Dorrance Malone,$3.7 B,73,Pennsylvania,Campbell Soup,1,FOOD & BEVERAGE
+304,John Middleton,$3.7 B,68,Pennsylvania,Tobacco,2,FOOD & BEVERAGE
+304,Jay Paul,$3.7 B,76,California,Real estate,None,REAL ESTATE
+304,"H. Ross Perot, Jr.",$3.7 B,64,Texas,Real estate,2,REAL ESTATE
+304,Anthony Pritzker,$3.7 B,62,California,"Hotels, investments",3,SERVICE
+314,Sanjit Biswas,$3.6 B,41,California,Sensor systems,None,TECHNOLOGY
+314,James Clark,$3.6 B,79,Florida,"Netscape, investments",2,TECHNOLOGY
+314,Jack Dorsey,$3.6 B,46,California,"Twitter, Square",4,TECHNOLOGY
+314,Travis Kalanick,$3.6 B,47,California,Uber,None,TECHNOLOGY
+314,Steven Klinsky,$3.6 B,67,New York,Investments,None,FINANCE & INVESTMENTS
+314,Josh Kushner,$3.6 B,38,New York,Venture capital,None,FINANCE & INVESTMENTS
+314,Daniel Och,$3.6 B,62,Florida,Hedge funds,3,FINANCE & INVESTMENTS
+314,Bob Parsons,$3.6 B,72,Arizona,Web hosting,3,TECHNOLOGY
+314,Ira Rennert,$3.6 B,89,New York,Investments,2,FINANCE & INVESTMENTS
+314,Rodger Riney & family,$3.6 B,77,Missouri,Discount brokerage,2,FINANCE & INVESTMENTS
+314,Vincent Viola,$3.6 B,67,New York,Electronic trading,2,FINANCE & INVESTMENTS
+314,Jon Yarbrough,$3.6 B,66,Tennessee,Video games,1,GAMBLING & CASINOS
+326,William Berkley,$3.5 B,77,Florida,Insurance,1,FINANCE & INVESTMENTS
+326,John Bicket,$3.5 B,43,California,Sensor systems,None,TECHNOLOGY
+326,David Filo,$3.5 B,57,California,Yahoo,3,TECHNOLOGY
+326,"Amos Hostetter, Jr.",$3.5 B,86,Massachusetts,Cable television,5,MEDIA & ENTERTAINMENT
+326,John Paulson,$3.5 B,67,New York,Hedge funds,4,FINANCE & INVESTMENTS
+326,J.B. Pritzker,$3.5 B,58,Illinois,"Hotels, investments",3,FINANCE & INVESTMENTS
+326,J. Joe Ricketts & family,$3.5 B,82,Wyoming,TD Ameritrade,3,FINANCE & INVESTMENTS
+326,David Rubenstein,$3.5 B,74,Maryland,Private equity,4,FINANCE & INVESTMENTS
+326,Herb Simon,$3.5 B,88,Indiana,Real estate,2,REAL ESTATE
+326,Pat Stryker,$3.5 B,67,Colorado,Medical equipment,3,HEALTHCARE
+326,Carl Thoma,$3.5 B,74,Texas,Private equity,2,FINANCE & INVESTMENTS
+326,Charles Zegar,$3.5 B,75,New York,Bloomberg LP,2,FINANCE & INVESTMENTS
+338,Neal Blue & family,$3.4 B,88,California,Defense,None,MANUFACTURING
+338,Jane Lauder,$3.4 B,50,New York,Estée Lauder,None,FASHION & RETAIL
+338,David Murdock,$3.4 B,10,,"0CaliforniaDole, real estate",None,FOOD & BEVERAGE
+338,Jonathan Nelson,$3.4 B,67,Rhode Island,Private equity,2,FINANCE & INVESTMENTS
+338,Eren Ozmen,$3.4 B,65,Nevada,Aerospace,1,MANUFACTURING
+338,Stewart Rahr,$3.4 B,77,New York,Drug distribution,3,HEALTHCARE
+338,Steve Wynn,$3.4 B,81,Florida,"Casinos, hotels",1,GAMBLING & CASINOS
+345,John Arnold,$3.3 B,49,Texas,Hedge funds,5,FINANCE & INVESTMENTS
+345,Seth Boro,$3.3 B,48,California,Private equity,1,FINANCE & INVESTMENTS
+345,"William Conway, Jr.",$3.3 B,74,Virginia,Private equity,4,FINANCE & INVESTMENTS
+345,Scott Crabill,$3.3 B,53,California,Private equity,1,FINANCE & INVESTMENTS
+345,Bom Kim,$3.3 B,45,,Online retailing,None,TECHNOLOGY
+345,Richard LeFrak & family,$3.3 B,78,New York,Real estate,2,REAL ESTATE
+345,Daniel Loeb,$3.3 B,61,New York,Hedge funds,2,FINANCE & INVESTMENTS
+345,Fatih Ozmen,$3.3 B,65,Nevada,Aerospace,1,MANUFACTURING
+345,Penny Pritzker,$3.3 B,64,Illinois,"Hotels, investments",3,FINANCE & INVESTMENTS
+345,Holden Spaht,$3.3 B,49,California,Private equity,1,FINANCE & INVESTMENTS
+345,Frank VanderSloot,$3.3 B,75,Idaho,"Nutrition, wellness products",3,FASHION & RETAIL
+356,Nicolas Berggruen,$3.2 B,62,California,"Real estate, investments",2,REAL ESTATE
+356,George Bishop,$3.2 B,85,Texas,Oil & gas,1,ENERGY
+356,Norman Braman,$3.2 B,91,Florida,"Art, car dealerships",2,AUTOMOTIVE
+356,Todd Christopher,$3.2 B,60,Florida,Hair care products,1,FASHION & RETAIL
+356,Stephen Deckoff,$3.2 B,57,,U.S. Virgin IslandsPrivate equity,1,FINANCE & INVESTMENTS
+356,Robert Johnson,$3.2 B,76,Florida,"Johnson & Johnson, New York Jets",None,SPORTS
+356,Richard Peery,$3.2 B,85,California,Real estate,2,REAL ESTATE
+356,Robert Sands,$3.2 B,65,Florida,Liquor,1,FOOD & BEVERAGE
+356,Howard Schultz,$3.2 B,70,Washington,Starbucks,3,FOOD & BEVERAGE
+356,Warren Stephens,$3.2 B,66,Arkansas,Investment banking,1,FINANCE & INVESTMENTS
+366,Brian Acton,$3.1 B,51,California,WhatsApp,4,TECHNOLOGY
+366,George Argyros & family,$3.1 B,86,California,"Real estate, investments",3,REAL ESTATE
+366,Ron Burkle,$3.1 B,70,,"Supermarkets, investments",1,FINANCE & INVESTMENTS
+366,Andrew Cherng,$3.1 B,76,Nevada,Fast food,2,FOOD & BEVERAGE
+366,Peggy Cherng,$3.1 B,75,Nevada,Fast food,2,FOOD & BEVERAGE
+366,Bennett Dorrance,$3.1 B,77,Arizona,Campbell Soup,2,FOOD & BEVERAGE
+366,Rajiv Jain,$3.1 B,55,Florida,Finance,1,FINANCE & INVESTMENTS
+366,Pablo Legorreta,$3.1 B,59,New York,Investments,1,FINANCE & INVESTMENTS
+366,"Drayton McLane, Jr.",$3.1 B,87,Texas,"Walmart, logistics",2,FASHION & RETAIL
+366,Vincent McMahon,$3.1 B,78,Connecticut,Entertainment,1,SPORTS
+366,Geoffrey Palmer,$3.1 B,73,California,Real estate,1,REAL ESTATE
+366,Rodney Sacks & family,$3.1 B,73,California,Energy drinks,None,FOOD & BEVERAGE
+366,Jerry Speyer & family,$3.1 B,83,New York,Real estate,1,REAL ESTATE
+379,Aneel Bhusri,$3 B,57,California,Business software,1,TECHNOLOGY
+379,Charles Cohen,$3 B,71,New York,Real estate,1,REAL ESTATE
+379,"Edward DeBartolo, Jr.",$3 B,76,Florida,Shopping centers,2,REAL ESTATE
+379,John Paul DeJoria,$3 B,79,Texas,"Hair products, tequila",2,FASHION & RETAIL
+379,James Duff,$3 B,62,Mississippi,"Tires, diversified",1,DIVERSIFIED
+379,Thomas Duff,$3 B,66,Mississippi,"Tires, diversified",1,DIVERSIFIED
+379,J. Tomilson Hill,$3 B,75,New York,Investments,2,FINANCE & INVESTMENTS
+379,Stewart Horejsi & family,$3 B,86,Arizona,Berkshire Hathaway,2,FINANCE & INVESTMENTS
+379,Michael Jordan,$3 B,60,Florida,"Charlotte Hornets, endorsements",1,SPORTS
+379,Haim Saban,$3 B,78,California,"TV network, investments",3,MEDIA & ENTERTAINMENT
+379,Leonard Schleifer,$3 B,71,New York,Pharmaceuticals,1,HEALTHCARE
+379,Jeffrey Talpins,$3 B,48,New York,Hedge fund,None,FINANCE & INVESTMENTS
+379,Thomas Tull,$3 B,53,Pennsylvania,"Movies, investments",2,MEDIA & ENTERTAINMENT
+379,Todd Wanek,$3 B,59,Florida,Furniture,2,MANUFACTURING
+379,Meg Whitman,$3 B,67,California,EBay,2,TECHNOLOGY
+379,"William Wrigley, Jr.",$3 B,59,Florida,Chewing gum,None,FOOD & BEVERAGE
+395,Bill Austin,$2.9 B,81,Texas,Hearing aids,None,MANUFACTURING
+395,J. Hyatt Brown,$2.9 B,86,Florida,Insurance,2,FINANCE & INVESTMENTS
+395,Ray Davis,$2.9 B,81,Texas,Pipelines,2,ENERGY
+395,Chris Larsen,$2.9 B,63,California,Cryptocurrency,4,FINANCE & INVESTMENTS
+395,C. Dean Metropoulos,$2.9 B,77,Florida,Investments,1,FOOD & BEVERAGE
+395,Daniel Sundheim,$2.9 B,46,New York,Hedge funds,1,FINANCE & INVESTMENTS

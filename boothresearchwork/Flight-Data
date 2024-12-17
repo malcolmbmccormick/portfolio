@@ -1,0 +1,111 @@
+#Program to build out the flight data
+import requests
+import math
+import pandas as pd
+import datetime
+
+
+
+
+
+
+
+#Looping through all of the readings/transmissions in the trace
+#Store lat,long coordinates in tuples. Result will be list of tuples (some trace files will have multiple since multiple flights)
+
+def retrieve(flight_data: dict) -> list[tuple[tuple[float, float],tuple[float, float]]]:
+    """
+    Given a trace file, returns a list of takeoff/landing coordinates
+    """
+    count = 0
+    timestamp = flight_data['timestamp']
+    current_flight_number = ''
+    last_transmission = len(flight_data['trace']) - 1
+    rv = []
+    for transmission in flight_data['trace']:
+        if count == 0:
+            #If this is the first transmission, will set the takeoff position to these coordinates
+            takeoff = (transmission[1], transmission[2])
+        if type(transmission[8]) == dict and 'flight' in transmission[8].keys():
+            #If this transmission includes the flight number, which will be important in determining when the plane lands
+            if current_flight_number == '':
+                # If this is the first flight number encountered
+                current_flight_number = transmission[8]['flight']
+            else:
+                if current_flight_number != transmission[8]['flight'] and transmission[3] == 'ground':
+                    #The flight number has switched, and the plane is on the ground, indicating a landing and preparation for a new flight
+                    current_flight_number = transmission[8]['flight']
+                    landing = (transmission[1], transmission[2])
+                    rv.append((takeoff, landing, transmission[0] + timestamp))
+                    takeoff = (transmission[1], transmission[2])
+                elif current_flight_number == transmission[8]['flight'] and transmission[3] == 'ground':
+                    #This accounts for when the plane lands, but the flight number does not switch.
+                    landing = (transmission[1], transmission[2])
+                    if not check_random_flight_changes((takeoff, landing, 'Date')):
+                        #Sometimes the flight number switches on the ground at random (assuming a switch from the airline/FAA/ATC) so this method detects if coordinates
+                        #are too close together to be considered different takeoff and landing airports
+                        rv.append((takeoff, landing, transmission[0] + timestamp))
+                        takeoff = (transmission[1], transmission[2])
+                    else:
+                        pass #Do nothing
+        else:
+            if transmission[3] == 'ground':
+                #If this transmission does not specify a flight number/code but is on the ground, it means the plane has landed
+                #this is ensured by the function below which checks that it has landed at a different airport
+                landing = (transmission[1], transmission[2])
+                if not check_random_flight_changes((takeoff, landing, 'Date')):
+                        rv.append((takeoff, landing, transmission[0] + timestamp))
+                        takeoff = (transmission[1], transmission[2])
+                else:
+                    pass #Do nothing
+        if count == last_transmission:
+            #If this is the last transmission in the data, it sets this as the last landing point
+            #Some flights end their transmission just before they land, so the exact coordinates are a bit off from the airport but
+            #easy to identify using Google Maps
+            landing = (transmission[1], transmission[2])
+            rv.append((takeoff, landing, transmission[0] + timestamp))
+        count += 1
+    return [entry for entry in rv if not check_random_flight_changes(entry)]
+
+
+def check_random_flight_changes(pair: tuple[tuple[float, float], tuple[float, float]]) -> bool:
+    """
+    Given a takeoff/landing pair of coordinates, determines if they represent the same place and thus a random Flight Number change that is hard to 
+    track in the data
+    """
+    takeoff, landing, _ = pair
+    lat_takeoff, long_takeoff = takeoff
+    lat_landing, long_landing = landing
+    if abs(lat_landing - lat_takeoff) < 0.3 and abs(long_takeoff - long_landing) < 0.3:
+        return True
+    return False
+
+def x():
+    compiled = []
+    to_extract = ['a73100', 'a10400', 'a14700', 'a00500', "a15600", 'a01500', "a3f500", "a03000", "a0a900", "a22900"]
+    for icao_num in to_extract:
+        URL = f'https://samples.adsbexchange.com/traces/2024/06/01/00/trace_full_{icao_num}.json'
+        response = requests.get(URL)
+        flight_data = response.json()
+        data = retrieve(flight_data)
+        c = []
+        for i in range (0, len(data)):
+            entry = {}
+            entry['ICAO'] = icao_num
+            entry['Date'] = '06/01/24'
+            entry['Time of Landing'] = ''
+            entry['Takeoff'] = ''
+            entry['Landing'] = ''
+            c.append(entry)
+        for i, d in enumerate(data):
+            takeoff, landing, unix_time = d
+            c[i]['Takeoff'] = takeoff
+            c[i]['Landing'] = landing
+            dt_object = datetime.datetime.fromtimestamp(unix_time)
+            time_of_day = dt_object.strftime('%H:%M:%S')
+            c[i]['Time of Landing'] = time_of_day
+        compiled.extend(c)
+    
+    
+
+
